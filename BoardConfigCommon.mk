@@ -150,7 +150,7 @@ PROTOBUF_SUPPORTED := true
 TARGET_USES_CPU_BOOST_HINT := true
 
 # ANT+
-#BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
+BOARD_ANT_WIRELESS_DEVICE := "vfs-prerelease"
 
 # Enable Minikin text layout engine (will be the default soon)
 USE_MINIKIN := true
